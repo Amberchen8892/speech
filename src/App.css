@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+.section-one {
+  background-image: url("./images/bg.png");
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.section-one-inner {
+  width: 80%;
+  height: 90%;
+}
+
+.section-two {
+  background-image: url("./images/bg.png");
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.section-two-inner {
+  width: 80%;
+  height: 90%;
+}
